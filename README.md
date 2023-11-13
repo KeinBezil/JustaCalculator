@@ -1,1 +1,1 @@
-# JustaCalculator
+# Calculator with Python
